@@ -1,5 +1,5 @@
 def get_planet_name(id):
-    # This doesn't work; Fix it!
+    # Python does not have switch
 
     plants = (None,"Mercury","Venus","Earth","Mars","Jupiter","Saturn","Uranus","Neptune")
 
